@@ -151,7 +151,7 @@ For further reading on creating professional notebooks and `README`s, check out 
 ### Interactive Dashboard
 
 The interactive dashboard is a collection of views that allows the viewer to change the views to understand different features in the data. This dashboard will be linked within your GitHub repository README.md file so that users can explore your analysis. Make sure you follow visual best practices that you have learned in this course. Below is an example of what you could produce for this assignment.
-![tableau dashboard for aviation accidents](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v3/master/example_dashboard.png)
+
 ![Image Alt](https://github.com/Maryokello/dsc-phase-1-project-v3/blob/3f57b2d715f232c251905f5178c8bf6d6001e755/Screenshot%202025-07-27%20230259.png)
 https://github.com/Maryokello/dsc-phase-1-project-v3/blob/3f57b2d715f232c251905f5178c8bf6d6001e755/Screenshot%202025-07-27%20230259.png
 
