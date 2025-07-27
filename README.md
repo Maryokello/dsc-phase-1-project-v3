@@ -155,9 +155,6 @@ The interactive dashboard is a collection of views that allows the viewer to cha
 
 
 
-![tableau dashboard for aviation accidents](https://public.tableau.com/views/Aviation_Data_17536456642730/AviationRiskAnalysis_1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-[View Dashboard](https://public.tableau.com/app/profile/mary.okello/viz/Aviation_Data_17536456642730/AviationRiskAnalysis_1)
 
 ## Grading
 
