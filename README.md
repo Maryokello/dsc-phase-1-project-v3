@@ -153,7 +153,10 @@ For further reading on creating professional notebooks and `README`s, check out 
 The interactive dashboard is a collection of views that allows the viewer to change the views to understand different features in the data. This dashboard will be linked within your GitHub repository README.md file so that users can explore your analysis. Make sure you follow visual best practices that you have learned in this course. Below is an example of what you could produce for this assignment.
 
 ![Image Alt](https://github.com/Maryokello/dsc-phase-1-project-v3/blob/3f57b2d715f232c251905f5178c8bf6d6001e755/Screenshot%202025-07-27%20230259.png)
-https://github.com/Maryokello/dsc-phase-1-project-v3/blob/3f57b2d715f232c251905f5178c8bf6d6001e755/Screenshot%202025-07-27%20230259.png
+
+![Image Alt](https://github.com/Maryokello/dsc-phase-1-project-v3/blob/48474d2f96900b529daf33a09e2d16a99a8818df/Screenshot%202025-07-27%20231252.png)
+
+
 
 
 ## Grading
