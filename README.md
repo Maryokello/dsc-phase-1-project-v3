@@ -156,6 +156,10 @@ The interactive dashboard is a collection of views that allows the viewer to cha
 
 ![Image Alt](https://github.com/Maryokello/dsc-phase-1-project-v3/blob/48474d2f96900b529daf33a09e2d16a99a8818df/Screenshot%202025-07-27%20231252.png)
 
+![Image Alt](https://github.com/Maryokello/dsc-phase-1-project-v3/blob/a48c6f1373b5b0817edfc70b35ef043ec7d70dbe/Screenshot%202025-07-27%20231319.png)
+
+
+
 
 
 
